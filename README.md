@@ -1,7 +1,7 @@
 # phpquote
 Simple php quote
 
-1. Create database quote in mysql.
+1. Create database quote from myphpadmin.
 2. Run quote.sql in quote database.
 3. Copy quote folder to htdocs.
 4. open url "http://localhost/quotes/show.php" to show all quotes.
